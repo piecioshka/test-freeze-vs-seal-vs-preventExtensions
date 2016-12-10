@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "test-freeze-vs-seal-vs-preventExtensions",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node test/unit/jasmine-runner.js"
+    },
+    "devDependencies": {
+        "jasmine": "^2.5.2",
+        "jasmine-spec-reporter": "^2.7.0"
+    }
+}
