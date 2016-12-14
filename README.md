@@ -1,6 +1,6 @@
 # test-freeze-vs-seal-vs-preventExtensions
 
-> :ledger: Analyze differences between `Object.freeze`, `Object.seal` and 
+> :ledger: Compare differences between `Object.freeze`, `Object.seal` and 
 `Object.preventExtensions`
 
 ## `Object.freeze` vs `Object.seal` vs `Object.preventExtensions`
@@ -12,6 +12,21 @@
 |`Object.preventExtensions`| ✗ | ✓ | ✓ | ✓ |
 
 Full report of unit tests is available in file [REPORT.md](./REPORT.md).
+
+## What I was tested?
+
+* add new property, to:
+    - primary object
+    - returned object from tested function
+* read existed property, from:
+    - primary object
+    - returned object from tested function
+* modify existed property, from:
+    - primary object
+    - returned object from tested function
+* remove existed property, from:
+    - primary object
+    - returned object from tested function
 
 ## License
 
