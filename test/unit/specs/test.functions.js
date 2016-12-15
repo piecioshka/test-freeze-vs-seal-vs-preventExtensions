@@ -26,7 +26,7 @@
             });
         });
 
-        describe('[R] read existed property', () => {
+        describe('[R] read existing property', () => {
             it('primary object', () => {
                 let emptyObject = {
                     test: 2

@@ -13,7 +13,7 @@ Spec started
         - Expected function not to throw, but it threw TypeError: Can't add property test, object is not extensible.
         - Expected undefined to equal 1.
 
-    1.2 [R] read existed property
+    1.2 [R] read existing property
       ✓ primary object (0.001 sec)
       ✓ returned object (0 sec)
 
@@ -43,7 +43,7 @@ Spec started
         - Expected function not to throw, but it threw TypeError: Can't add property test, object is not extensible.
         - Expected undefined to equal 1.
 
-    2.2 [R] read existed property
+    2.2 [R] read existing property
       ✓ primary object (0 sec)
       ✓ returned object (0 sec)
 
@@ -69,7 +69,7 @@ Spec started
         - Expected function not to throw, but it threw TypeError: Can't add property test, object is not extensible.
         - Expected undefined to equal 1.
 
-    3.2 [R] read existed property
+    3.2 [R] read existing property
       ✓ primary object (0 sec)
       ✓ returned object (0 sec)
 
