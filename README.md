@@ -1,6 +1,6 @@
 # test-freeze-vs-seal-vs-preventExtensions
 
-> :ledger: Comparing differences between `Object.freeze`, `Object.seal` and 
+:ledger: Comparing differences between `Object.freeze`, `Object.seal` and 
 `Object.preventExtensions`
 
 ## `Object.freeze` vs `Object.seal` vs `Object.preventExtensions`
