@@ -2,6 +2,7 @@
     "private": true,
     "name": "test-freeze-vs-seal-vs-preventExtensions",
     "version": "1.0.0",
+    "license": "MIT",
     "scripts": {
         "test": "node test/unit/jasmine-runner.js"
     },
